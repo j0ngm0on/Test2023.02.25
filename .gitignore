@@ -1,0 +1,4 @@
+*.html (전체 html을 올리지마)
+index.html
+(index만 올리지마)
+/build/* (빌드 파일안에 있는 모든것들)
